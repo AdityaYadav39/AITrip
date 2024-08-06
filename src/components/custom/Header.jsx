@@ -20,7 +20,7 @@ const Header = () => {
     return (
         <div className='p-2 shadow-sm flex justify-between items-center px-5'>
 
-            <img src="/logo.svg" alt="" width={90} />
+            <img src="/Travel.png" alt="" width={150} height={100} />
 
             <div>
                 {
